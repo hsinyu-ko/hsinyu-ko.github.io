@@ -1,23 +1,23 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/1a95cb1f476e6129dc203d97f46f70c30cb8dfe1/_pages/hsinyu_CV_current.pdf
+
 #  - title: "Publications"
 #    url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-  - title: "CV"
-    url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/1a95cb1f476e6129dc203d97f46f70c30cb8dfe1/_pages/hsinyu_CV_current.pdf
-#url: /cv/
+  - title: "Blog Posts"
+    url: /year-archive/
     
 #  - title: "Guide"
 #    url: /markdown/
