@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hsin-Yu Ko"
   avatar           : "https://github.com/hsinyu-ko.png"
-  bio              : "towards computational/theoretical understanding of complex condensed-phase systems..."
+  bio              : "Molecular Crystals, Aqueous Solutions, and Materials Interfaces from First Principle..."
   location         : "Ithaca, NY"
   employer         : "Cornell University"
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
