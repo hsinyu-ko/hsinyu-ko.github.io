@@ -1,8 +1,14 @@
 ---
-title: "[Code] EXX Paper 1"
-excerpt: "Code and Profiling Results of [H.-Y. Ko, J. Jia, B. Santra, X. Wu, R. Car, and R. A. DiStasio Jr., _J. Chem. Theory Comput._ *16*, 3757 (2020).]
- <br/><img src='/images/exx1-toc.png' width='300'>"
+title: "[Code] exx-alpha"
+excerpt: "Source Code for an Implementation of Order-N Exact-Exchange Calculation using Localized Orbitals in QuantumESPRESSO <br/><img src='/images/exx1-toc.png' width='300'>"
 collection: repos
 ---
 
-EXX Paper 1 Code
+By including a fraction of exact exchange (EXX), hybrid functionals reduce the self-interaction error in semilocal density functional theory (DFT) and thereby furnish a more accurate and reliable description of the underlying electronic structure in systems throughout biology, chemistry, physics, and materials science. However, the high computational cost associated with the evaluation of all required EXX quantities has limited the applicability of hybrid DFT in the treatment of large molecules and complex condensed-phase materials. To overcome this limitation, we describe a linear-scaling approach that utilizes a local representation of the occupied orbitals (e.g., maximally localized Wannier functions (MLWFs)) to exploit the sparsity in the real-space evaluation of the quantum mechanical exchange interaction in finite-gap systems. In this work, we present a detailed description of the theoretical and algorithmic advances required to perform MLWF-based ab initio molecular dynamics (AIMD) simulations of large-scale condensed-phase systems of interest at the hybrid DFT level. We focus our theoretical discussion on the integration of this approach into the framework of Car–Parrinello AIMD, and highlight the central role played by the MLWF-product potential (i.e., the solution of Poisson’s equation for each corresponding MLWF-product density) in the evaluation of the EXX energy and wave function forces. We then provide a comprehensive description of the exx algorithm implemented in the open-source Quantum ESPRESSO program, which employs a hybrid MPI/OpenMP parallelization scheme to efficiently utilize the high-performance computing (HPC) resources available on current- and next-generation supercomputer architectures. This is followed by a critical assessment of the accuracy and parallel performance (e.g., strong and weak scaling) of this approach when AIMD simulations of liquid water are performed in the canonical (NVT) ensemble. With access to HPC resources, we demonstrate that exx enables hybrid DFT-based AIMD simulations of condensed-phase systems containing 500–1000 atoms (e.g., (H2O)256) with a wall time cost that is comparable to that of semilocal DFT. In doing so, exx takes us one step closer to routinely performing AIMD simulations of complex and large-scale condensed-phase systems for sufficiently long time scales at the hybrid DFT level of theory.
+
+## Code Repository
+- <u><a href="https://gitlab.com/kosinyj/exx_module_version_one_demo">GitLab</a></u>
+
+## Reference:
+- Journal publication: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01167">[H.-Y. Ko, J. Jia, B. Santra, X. Wu, R. Car, and R. A. DiStasio Jr., _J. Chem. Theory Comput._ *16*, 3757 (2020).]</a></u> 
+- Preprint: <u><a href="https://arxiv.org/abs/1911.10630">arxiv</a></u>
