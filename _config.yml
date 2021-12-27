@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kosinyj"
+  github           : #"kosinyj"
   google_plus      :
   keybase          :
   instagram        :
@@ -121,7 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
+#- files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

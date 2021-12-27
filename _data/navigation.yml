@@ -4,9 +4,6 @@ main:
   - title: "Research"
     url: /portfolio/
 
-#  - title: "CV"
-#    url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/85406e543485addad5fe56b21ab8f170a5e8633d/_pages/hsinyu_CV_current_public.pdf
-
 #  - title: "Repos"
 #    url: /talks/
 
@@ -18,3 +15,6 @@ main:
         
   - title: "News"
     url: /year-archive/
+
+  - title: "CV"
+    url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/85406e543485addad5fe56b21ab8f170a5e8633d/_pages/hsinyu_CV_current_public.pdf
