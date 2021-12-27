@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Hsin-Yu Ko"
+  avatar           : "https://github.com/hsinyu-ko.png"
+  bio              : "a Postdoctoral Researcher in the DiStasio Group at Cornell University. He completed his Ph.D. in Theoretical Chemistry (2019) with Roberto Car at Princeton University. His research interests include developing algorithms for ab initio simulations of condensed-phase systems."
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XIkT2kwAAAAJ&hl=en"
   email            :
