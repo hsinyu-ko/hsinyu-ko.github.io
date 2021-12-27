@@ -83,8 +83,8 @@ author:
   name             : "Hsin-Yu Ko"
   avatar           : "https://github.com/hsinyu-ko.png"
   bio              : "Molecular Crystals, Aqueous Solutions, and Materials Interfaces from First Principle..."
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  location         :
+  employer         : "Cornell University, Ithaca, NY"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XIkT2kwAAAAJ&hl=en"
   email            :
