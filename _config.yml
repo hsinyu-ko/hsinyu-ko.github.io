@@ -84,10 +84,10 @@ author:
   avatar           : "https://github.com/hsinyu-ko.png"
   bio              : "Molecular Crystals, Aqueous Solutions, and Materials Interfaces from First Principle..."
   location         :
-  employer         : "Cornell University, Ithaca, NY"
+  employer         : "Cornell University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XIkT2kwAAAAJ&hl=en"
-  email            :
+  email            : "hsin-yu.ko@cornell.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1619-6514"
+  orcid            : #"https://orcid.org/0000-0003-1619-6514"
   pinterest        :
   soundcloud       :
   stackoverflow    :
