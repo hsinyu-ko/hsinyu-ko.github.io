@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ko is currently a Postdoctoral Research Associate working with Robert A. DiStasio Jr. at Cornell University.
+Ko is a Postdoctoral Research Associate working with Robert A. DiStasio Jr. at Cornell University.
 He completed his Ph.D. in Theoretical Chemistry (2019) with Roberto Car at Princeton University.
 His research interests include developing algorithms for _ab initio_ simulations of condensed-phase systems.
 
