@@ -14,7 +14,7 @@ My focus along this research thrust is developing theoretical methods and comput
 enabling routine use of highly accurate and reliable DFT approximations on complex condensed-phase systems for chemistry, physics, and materials science.
 
 
-#Quantum ESPRESSO (QE)
+##Quantum ESPRESSO (QE)
 <a name="qe"></a>
 
 I am an active and long-term developer of the Quantum ESPRESSO (QE) package, covering, e.g.,
@@ -22,14 +22,14 @@ linear-scaling exact-exchange, Tkatchenko-Scheffler (TS) and many-body dispersio
 My development mostly starts within the Car-Parrinello (CP) *ab initio* molecular dynamics (AIMD) framework as standalone modules for portability to
 the QE ecosystem and potentially other ab initio simulation packages.
 
-## References
+### References
 - "Advanced capabilities for materials modelling with Quantum ESPRESSO" 
 P. Giannozzi, O. Andreussi, T. Brumme, O. Bunau, M. B. Nardelli, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli, M. Cococcioni, N. Colonna, I. Carnimeo, A. D. Corso, S. de Gironcoli, P. Delugas, R. A. DiStasio Jr., A. Ferretti, A. Floris, G. Fratesi, G. Fugallo, R. Gebauer, U. Gerstmann, F. Giustino, T. Gorni, J. Jia, M. Kawamura, **H.-Y. Ko**, A. Kokalj, E. Küçükbenli, M. Lazzeri, M. Marsili, N. Marzari, F. Mauri, N. L. Nguyen, H.-V. Nguyen, A. Otero-de-la-Roza, L. Paulatto, S. Poncé, D. Rocca, R. Sabatini, B. Santra, M. Schlipf, A. P. Seitsonen, A. Smogunov, I. Timrov, T. Thonhauser, P. Umari, N. Vast, X. Wu, and S. Baroni, *J. Phys.: Condens. Matter* **29**, 465901 (2017).
 DOI: <u><a href="https://doi.org/10.1088/1361-648x/aa8f79">10.1088/1361-648X/aa8f79</a></u>; alternative: <u><a href="https://arxiv.org/abs/1709.10010">arXiv</a></u>
 
 
 
-#O(N) Exact-Exchange Algorithms (exx)
+##O(N) Exact-Exchange Algorithms (exx)
 <a name="exx-paper-1"></a>
 
 By admixing a fraction of exact exchange (EXX), hybrid functionals reduce the self-interaction error in semilocal density functional theory (DFT) and thereby furnish a more accurate and reliable description of the underlying electronic structure in systems throughout biology, chemistry, physics, and materials science.
@@ -43,18 +43,18 @@ As such, exx takes us one step closer to routinely performing AIMD simulations o
 
 <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01167"><img src='/images/research_exx-paper-1.png' width='600'></a></u>
 
-## References
+### References
 - **H.-Y. Ko**, J. Jia, B. Santra, X. Wu, R. Car, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **16**, 3757 (2020). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01167">10.1021/acs.jctc.9b01167</a></u>; alternative: <u><a href="https://arxiv.org/abs/1911.10630">arXiv</a></u>
 
 
 
-#O(N) Exact-Exchange Extension to Constant-Pressure Ensembles
+##O(N) Exact-Exchange Extension to Constant-Pressure Ensembles
 <a name="exx-paper-2"></a>
-## References
+### References
 - H.-Y. Ko, B. Santra, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **17**, 7789 (2021). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c01194">10.1021/acs.jctc.0c01194</a></u>; alternative: <u><a href="https://arxiv.org/abs/2011.07209">arXiv</a></u>
 TODO
 
-#O(N) Exact-Exchange for Heterogeneous Systems
+##O(N) Exact-Exchange for Heterogeneous Systems
 <a name="exx-paper-3"></a>
 TODO
 
