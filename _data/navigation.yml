@@ -19,5 +19,5 @@ main:
   - title: "Curriculum Vitae"
     url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/85406e543485addad5fe56b21ab8f170a5e8633d/_pages/hsinyu_CV_current_public.pdf
 
-      #  - title: "Photos"
-      #    url: /talks/
+  - title: "Gallery"
+    url: /gallery/
