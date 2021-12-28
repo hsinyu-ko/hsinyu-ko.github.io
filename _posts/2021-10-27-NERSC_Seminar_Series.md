@@ -1,5 +1,5 @@
 ---
-title: 'Invited to Talk at NERSC'
+title: 'Talk at NERSC'
 date: 2021-10-27
 permalink: /posts/2021/10/27/
 tags:
