@@ -14,7 +14,7 @@ My focus along this research thrust is developing theoretical methods and comput
 enabling routine use of highly accurate and reliable DFT approximations on complex condensed-phase systems for chemistry, physics, and materials science.
 
 
-##Quantum ESPRESSO (QE)
+## Quantum ESPRESSO (QE)
 <a name="qe"></a>
 
 I am an active and long-term developer of the Quantum ESPRESSO (QE) package, covering, e.g.,
@@ -29,7 +29,7 @@ DOI: <u><a href="https://doi.org/10.1088/1361-648x/aa8f79">10.1088/1361-648X/aa8
 
 
 
-##O(N) Exact-Exchange Algorithms (exx)
+## O(N) Exact-Exchange Algorithms (exx)
 <a name="exx-paper-1"></a>
 
 By admixing a fraction of exact exchange (EXX), hybrid functionals reduce the self-interaction error in semilocal density functional theory (DFT) and thereby furnish a more accurate and reliable description of the underlying electronic structure in systems throughout biology, chemistry, physics, and materials science.
@@ -44,17 +44,35 @@ As such, exx takes us one step closer to routinely performing AIMD simulations o
 <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01167"><img src='/images/research_exx-paper-1.png' width='600'></a></u>
 
 ### References
-- **H.-Y. Ko**, J. Jia, B. Santra, X. Wu, R. Car, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **16**, 3757 (2020). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01167">10.1021/acs.jctc.9b01167</a></u>; alternative: <u><a href="https://arxiv.org/abs/1911.10630">arXiv</a></u>
+- "Enabling Large-Scale Condensed-Phase Hybrid Density Functional Theory Based Ab Initio Molecular Dynamics. I. Theory, Algorithm, and Performance" **H.-Y. Ko**, J. Jia, B. Santra, X. Wu, R. Car, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **16**, 3757 (2020). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01167">10.1021/acs.jctc.9b01167</a></u>; alternative: <u><a href="https://arxiv.org/abs/1911.10630">arXiv</a></u>
 
 
 
-##O(N) Exact-Exchange Extension to Constant-Pressure Ensembles
+## O(N) Exact-Exchange Extension to Constant-Pressure Ensembles
 <a name="exx-paper-2"></a>
 ### References
-- H.-Y. Ko, B. Santra, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **17**, 7789 (2021). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c01194">10.1021/acs.jctc.0c01194</a></u>; alternative: <u><a href="https://arxiv.org/abs/2011.07209">arXiv</a></u>
+- "Enabling Large-Scale Condensed-Phase Hybrid Density Functional Theory-Based Ab Initio Molecular Dynamics II: Extensions to the Isobaric–Isoenthalpic and Isobaric–Isothermal Ensembles" H.-Y. Ko, B. Santra, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **17**, 7789 (2021). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c01194">10.1021/acs.jctc.0c01194</a></u>; alternative: <u><a href="https://arxiv.org/abs/2011.07209">arXiv</a></u>
 TODO
 
-##O(N) Exact-Exchange for Heterogeneous Systems
+
+## O(N) Exact-Exchange for Heterogeneous Systems
 <a name="exx-paper-3"></a>
+
+TODO
+### References
 TODO
 
+
+## SeA: High-Throughput Hybrid DFT Framework 
+<a name="exx-paper-4"></a>
+
+TODO
+### References
+TODO
+
+## Next-Generation Algorithms for O(N) Exact-Exchange using local orbitals (exxl)
+<a name="exx-paper-5"></a>
+
+TODO
+### References
+TODO
