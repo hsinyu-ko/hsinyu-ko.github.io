@@ -17,4 +17,4 @@ His research interests include developing algorithms for _ab initio_ simulations
 
 ## More Information:
 - <u><a href="https://orcid.org/0000-0003-1619-6514">ORCID</a></u>
-- <u><a href="https://github.com/hsinyu-ko/hsinyu-ko.github.io/raw/85406e543485addad5fe56b21ab8f170a5e8633d/_pages/hsinyu_CV_current_public.pdf">Curriculum Vitae (CV)</a></u>
+- <u><a href="https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/master/_pages/hsinyu_CV_current_public.pdf">Curriculum Vitae (CV)</a></u>

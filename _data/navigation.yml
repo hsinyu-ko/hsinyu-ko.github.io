@@ -17,7 +17,7 @@ main:
     url: /repos/
 
   - title: "Curriculum Vitae"
-    url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/raw/85406e543485addad5fe56b21ab8f170a5e8633d/_pages/hsinyu_CV_current_public.pdf
+    url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/master/_pages/hsinyu_CV_current_public.pdf
 
   - title: "Gallery"
     url: /gallery/
