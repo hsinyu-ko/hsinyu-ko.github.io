@@ -1,14 +1,8 @@
 # main links links
 main:
     
-  - title: "Research"
+  - title: "Research & Publications"
     url: /research/
-
-#  - title: "Teaching"
-#    url: /teaching/    
-
-#  - title: "Talks"
-#    url: /talks/    
         
   - title: "News"
     url: /year-archive/
@@ -19,5 +13,11 @@ main:
   - title: "Curriculum Vitae"
     url: https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/master/_pages/hsinyu_CV_current_public.pdf
 
-  - title: "Gallery"
-    url: /gallery/
+#  - title: "Teaching"
+#    url: /teaching/    
+
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Gallery"
+#    url: /gallery/
