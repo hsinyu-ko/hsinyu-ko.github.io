@@ -14,7 +14,8 @@ My focus along this research thrust is developing theoretical methods and comput
 enabling routine use of highly accurate and reliable DFT approximations on complex condensed-phase systems for chemistry, physics, and materials science.
 
 
-#<a name="qe"></a> Quantum ESPRESSO (QE)
+#Quantum ESPRESSO (QE)
+<a name="qe"></a>
 
 I am an active and long-term developer of the Quantum ESPRESSO (QE) package, covering, e.g.,
 linear-scaling exact-exchange, Tkatchenko-Scheffler (TS) and many-body dispersion (MBD), meta-generalized gradient approximation (meta-GGA) functionals.
@@ -28,7 +29,8 @@ DOI: <u><a href="https://doi.org/10.1088/1361-648x/aa8f79">10.1088/1361-648X/aa8
 
 
 
-#<a name="exx-paper-1"></a> O(N) Exact-Exchange Algorithms (exx)
+#O(N) Exact-Exchange Algorithms (exx)
+<a name="exx-paper-1"></a>
 
 By admixing a fraction of exact exchange (EXX), hybrid functionals reduce the self-interaction error in semilocal density functional theory (DFT) and thereby furnish a more accurate and reliable description of the underlying electronic structure in systems throughout biology, chemistry, physics, and materials science.
 However, applicability of hybrid DFT in the treating complex condensed-phase materials remains rather limited due to the high computational cost associated with the evaluation of the necessary EXX-related quantities.
@@ -46,12 +48,13 @@ As such, exx takes us one step closer to routinely performing AIMD simulations o
 
 
 
-#<a name="exx-paper-2"></a> O(N) Exact-Exchange Extension to Constant-Pressure Ensembles
+#O(N) Exact-Exchange Extension to Constant-Pressure Ensembles
+<a name="exx-paper-2"></a>
 ## References
 - H.-Y. Ko, B. Santra, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **17**, 7789 (2021). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c01194">10.1021/acs.jctc.0c01194</a></u>; alternative: <u><a href="https://arxiv.org/abs/2011.07209">arXiv</a></u>
 TODO
 
-#<a name="exx-paper-3"></a> O(N) Exact-Exchange for Heterogeneous Systems
+#O(N) Exact-Exchange for Heterogeneous Systems
+<a name="exx-paper-3"></a>
 TODO
-
 
