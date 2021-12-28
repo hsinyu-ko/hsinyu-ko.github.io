@@ -1,6 +1,9 @@
 ---
 title: "Electronic-Structure Methods for Large-Scale Condensed-Phase Systems"
-excerpt: "Towards Accurate and Efficient Denisty Functional Theory<br/><img src='http://www.quantum-espresso.org/user/themes/quantum/images/logo_header.jpg' width='300'>"
+excerpt: "Towards Accurate and Efficient Denisty Functional Theory<br/>
+<img src='/images/research_exx-paper-1.png' width='300'>
+<img src='/images/research_exx-paper-2.png' width='300'><br/>
+<img src='http://www.quantum-espresso.org/user/themes/quantum/images/logo_header.jpg' width='300'>"
 permalink: /research/electronic-structure
 collection: research
 ---
@@ -35,7 +38,10 @@ As such, exx takes us one step closer to routinely performing AIMD simulations o
 
 ## O(N) Exact-Exchange Extension to Constant-Pressure Ensembles
 <a name="exx-paper-2"></a>
+
 TODO
+
+<u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c01194"><img src='/images/research_exx-paper-2.png' width='600'></a></u>
 
 ### References
 - "Enabling Large-Scale Condensed-Phase Hybrid Density Functional Theory-Based Ab Initio Molecular Dynamics II: Extensions to the Isobaric–Isoenthalpic and Isobaric–Isothermal Ensembles" H.-Y. Ko, B. Santra, and R. A. DiStasio Jr., *J. Chem. Theory Comput.* **17**, 7789 (2021). DOI: <u><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c01194">10.1021/acs.jctc.0c01194</a></u>; alternative: <u><a href="https://arxiv.org/abs/2011.07209">arXiv</a></u>

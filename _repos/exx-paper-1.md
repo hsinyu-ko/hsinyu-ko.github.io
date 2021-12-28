@@ -1,6 +1,6 @@
 ---
 title: "[Code] exx-alpha"
-excerpt: "Source Code for an Implementation of Order-N Exact-Exchange Calculation using Localized Orbitals in Quantum ESPRESSO <br/><img src='/images/exx1-toc.png' width='300'>"
+excerpt: "Source Code for an Implementation of Order-N Exact-Exchange Calculation using Localized Orbitals in Quantum ESPRESSO <br/><img src='/images/research_exx-paper-1.png' width='300'>"
 collection: repos
 ---
 
