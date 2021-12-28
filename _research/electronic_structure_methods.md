@@ -3,7 +3,8 @@ title: "Electronic-Structure Methods for Large-Scale Condensed-Phase Systems"
 excerpt: "Towards Accurate and Efficient Denisty Functional Theory<br/>
 <img src='/images/research_exx-paper-1.png' width='300'>
 <img src='/images/research_exx-paper-2.png' width='300'>
-<!-- <img src='http://www.quantum-espresso.org/user/themes/quantum/images/logo_header.jpg' width='300'>" -->
+<!-- <img src='http://www.quantum-espresso.org/user/themes/quantum/images/logo_header.jpg' width='300'> -->
+"
 permalink: /research/electronic-structure
 collection: research
 ---
