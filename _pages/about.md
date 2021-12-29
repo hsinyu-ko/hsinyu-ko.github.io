@@ -28,7 +28,7 @@ on using machine-learning to extend the length and time scales of AIMD simulatio
 
 <p align="center">
 <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' width="200">
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="200">
+<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="220">
 <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' width="200">
 </p>
 
@@ -47,9 +47,9 @@ towards the sustainable Low-Carbon Future.
 
 <p align="center">
 <img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' width="200">
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="200">
+<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="220">
 <img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' width="200">
-<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width="100">
+<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width="60">
 </p>
 
 
