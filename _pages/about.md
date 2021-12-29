@@ -46,10 +46,10 @@ towards the sustainable Low-Carbon Future.
 <!-- ## More Information: -->
 <!-- - <u><a href="https://orcid.org/0000-0003-1619-6514">ORCID</a></u> -->
 
-## Sponsors
+<!--## Sponsors
 <img src='https://cabes.cornell.edu/wp-content/uploads/2018/11/doeLogo_flat.png' height='100'>
 <img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' height='100'>
 <img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' height='100'>
 <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' height='100'>
 <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' height='100'>
-<img src='http://distasio.chem.cornell.edu/images/NSF_4-Color_bitmap_Logo.png' height='100'>
+<img src='http://distasio.chem.cornell.edu/images/NSF_4-Color_bitmap_Logo.png' height='100'>-->
