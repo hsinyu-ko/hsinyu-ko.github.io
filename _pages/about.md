@@ -26,9 +26,11 @@ After receiving his Ph.D. in early 2019, he worked at as a postdoctoral research
 <u><a href="https://ccsc.princeton.edu/">Chemistry in Solution and at Interfaces (CSI) Computational Chemical Science Center</a></u> at Princeton
 on using machine-learning to extend the length and time scales of AIMD simulations and simultaneously served as the DOE early-career network (ECN) representative for the center.
 
-<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' width='100'>
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width='100'>
-<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' width='100'>
+<p align="center">
+<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' height="100">
+<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' height="100">
+<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' height="100">
+</p>
 
 
 During the late 2019, Hsin-Yu joined the group of <u><a href="http://distasio.chem.cornell.edu/RAD.html">Professor Robert A. DiStasio Jr.</a></u>
@@ -43,10 +45,12 @@ Based on this development and the machine-learning techniques developed at CSI, 
 on studying the base-stability and transport properties of anion-exchange membrane---both are crucial elements on the alkaline fuel cell pathway
 towards the sustainable Low-Carbon Future.
 
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width='100'>
-<img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' width='100'>
-<img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' width='100'>
-<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width='100'>-->
+<p align="center">
+<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' height="100">
+<img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' height="100">
+<img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' height="100">
+<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' height="100">
+</p>
 
 
 - <u><a href="https://github.com/hsinyu-ko/hsinyu-ko.github.io/blob/master/_pages/hsinyu_CV_current_public.pdf">Curriculum Vitae (CV)</a></u>
