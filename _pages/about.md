@@ -27,9 +27,9 @@ After receiving his Ph.D. in early 2019, he worked at as a postdoctoral research
 on using machine-learning to extend the length and time scales of AIMD simulations and simultaneously served as the DOE early-career network (ECN) representative for the center.
 
 <p align="center">
-<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' height="100">
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' height="100">
-<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' height="100">
+<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' width="200">
+<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="200">
+<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' width="200">
 </p>
 
 
@@ -46,10 +46,10 @@ on studying the base-stability and transport properties of anion-exchange membra
 towards the sustainable Low-Carbon Future.
 
 <p align="center">
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' height="100">
-<img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' height="100">
-<img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' height="100">
-<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' height="100">
+<img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' width="200">
+<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="200">
+<img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' width="200">
+<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width="100">
 </p>
 
 
