@@ -22,10 +22,10 @@ on developing and applying *ab initio* molecular dynamics (AIMD) methods to unde
 focused on using first-principles methods to study the structural and thermal properties of molecular crystals and liquids.-->
 During his graduate research, Hsin-Yu became an active developer of the popular open-source planewave-pseudopotential package 
 <u><a href="http://www.quantum-espresso.org/">Quantum ESPRESSO</a></u> for first-principles simulations of molecules and condensed-phase materials.
-Besides research, Hsin-Yu emphasizes clear and effective mentorship; his undergraduate teaching was recorgnized by the 2016 Pickering Teaching Award.
-After receiving his Ph.D. in early 2019, he worked at as a postdoctoral research associate the Department of Energy (DOE) sponsored
-<u><a href="https://ccsc.princeton.edu/">Chemistry in Solution and at Interfaces (CSI) Computational Chemical Science Center</a></u> at Princeton
-on using machine-learning to extend the length and time scales of AIMD simulations and simultaneously served as the DOE early-career network (ECN) representative for the center.
+Besides research, Hsin-Yu emphasizes clear and effective mentorship; his undergraduate teaching was recognized by the 2016 Pickering Teaching Award.
+After receiving his Ph.D. in early 2019, he worked as a postdoctoral researcher in the
+<u><a href="https://ccsc.princeton.edu/">Chemistry in Solution and at Interfaces (CSI) Computational Chemical Science Center</a></u> at Princeton on using machine-learning potentials to extend the length and time scales of AIMD simulations.
+In addition, he served as an early-career network (ECN) representative for the CSI center.
 
 <p align="center">
 <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' width="200">
@@ -34,18 +34,12 @@ on using machine-learning to extend the length and time scales of AIMD simulatio
 </p>
 
 
-During the late 2019, Hsin-Yu joined the group of <u><a href="http://distasio.chem.cornell.edu/RAD.html">Professor Robert A. DiStasio Jr.</a></u>
+In late 2019, Hsin-Yu joined the group of <u><a href="http://distasio.chem.cornell.edu/RAD.html">Professor Robert A. DiStasio Jr.</a></u>
 in the Department of Chemistry and Chemical Biology at Cornell University.
-His research at Cornell focused on using developing novel theoretical and high-performance computing algorithms to enabled routine use of sophisticated dispersion-inclusive
-hybrid density functional theory (DFT) for large-scale condensed-phase systems.
-For this development, he became a proud recipient of the
-2021 NERSC Early Career Award for High Impact Scientific Achievement.
-<!--<u><a href="https://www.nersc.gov/news-publications/nersc-news/nersc-center-news/2021/nersc-honors-eight-early-career-scientists-with-hpc-achievement-awards/">
-2021 NERSC Early Career Award for High Impact Scientific Achievement.</a></u>-->
-Based on this development and the machine-learning techniques developed at CSI, he worked as a part of the DOE-sponsored
-<u><a href="https://cabes.cornell.edu/">Center for Alkaline-Based Energy Solutions (CABES) Energy Frontier Research Center (EFRC)</a></u> at Cornell
-on studying the base-stability and transport properties of anion-exchange membrane---both are crucial elements on the alkaline fuel cell pathway
-towards the sustainable Low-Carbon Future.
+His research at Cornell focused on developing novel theoretical and high-performance computing algorithms to enable routine use of sophisticated dispersion-inclusive hybrid density functional theory (DFT) for large-scale condensed-phase systems.
+He became a proud recipient of the 2021 NERSC Early Career Award for High Impact Scientific Achievement for his development in hybrid DFT.
+He now works as a part of Cornell's <u><a href="https://cabes.cornell.edu/">Center for Alkaline-Based Energy Solutions (CABES) Energy Frontier Research Center (EFRC)</a></u>.
+By combining hybrid DFT with machine-learning potentials, he is currently investigating the intelligent design of next-generation alkaline fuel cells---a promising route towards a clean and sustainable Low-Carbon Future.
 
 <p align="center">
 <img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' width="200">
