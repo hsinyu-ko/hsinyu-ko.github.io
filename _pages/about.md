@@ -44,8 +44,8 @@ By combining hybrid DFT with machine-learning potentials, he is currently invest
 <p align="center">
 <img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' width="200">
 <img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="230">
-<img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' width="200">
-<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width="60">
+<img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' width="210">
+<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width="70">
 </p>
 
 
