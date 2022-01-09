@@ -45,7 +45,7 @@ He now works as a part of Cornell's <u><a href="https://cabes.cornell.edu/">Cent
 By combining hybrid DFT with machine-learning potentials, he is currently investigating the intelligent design of next-generation alkaline fuel cells---a promising route towards a clean and sustainable Low-Carbon Future.
 
 <p align="center">
-<img src='image/CU_logo.svg' width="200">
+<img src='image/CU_logo.png' width="200">
 <img src='images/DOE_Logo.png' width="230">
 <img src='images/cabes_logo.png' width="210">
 <img src='images/NSF_4-Color_bitmap_Logo_thumb.jpg' width="70">
