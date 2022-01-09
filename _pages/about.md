@@ -28,9 +28,12 @@ After receiving his Ph.D. in early 2019, he worked as a postdoctoral researcher 
 In addition, he served as an early-career network (ECN) representative for the CSI center.
 
 <p align="center">
-<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' width="200">
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="230">
-<img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' width="200">
+<img src='images/PU-300x82.png' width="200">
+<img src='images/DOE_Logo.png' width="230">
+<img src='images/CSI-logo-final.png' width="200">
+<!-- <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' width="200"> -->
+<!-- <img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="230"> -->
+<!-- <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' width="200"> -->
 </p>
 
 
@@ -42,10 +45,13 @@ He now works as a part of Cornell's <u><a href="https://cabes.cornell.edu/">Cent
 By combining hybrid DFT with machine-learning potentials, he is currently investigating the intelligent design of next-generation alkaline fuel cells---a promising route towards a clean and sustainable Low-Carbon Future.
 
 <p align="center">
-<img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' width="200">
-<img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="230">
-<img src='https://cabes.cornell.edu/wp-content/themes/cabes/img/logo_mobile.png' width="210">
-<img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width="70">
+<img src='image/CU_logo.svg' width="200">
+<img src='images/DOE_Logo.png' width="230">
+<img src='images/cabes_logo.png' width="210">
+<img src='images/NSF_4-Color_bitmap_Logo_thumb.jpg' width="70">
+<!-- <img src='https://brand.cornell.edu/assets/images/examples/trademarks/brand_registered.svg' width="200"> -->
+<!-- <img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="230"> -->
+<!-- <img src='https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg' width="70"> -->
 </p>
 
 
