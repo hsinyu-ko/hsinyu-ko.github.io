@@ -19,12 +19,12 @@ He is a long-term developer/co-author of the open-source <u><a href="https://www
 <!-- In addition to theoretical/algorithmic developments, Hsin-Yu also applies machine-learning techniques to investigate condensed-phase systems with even more extended length- and time-scales to allow more realistic modeling towards mesoscopic experimental conditions. -->
 
 <p align="center">
-<img src='images/CU_logo.svg' width="100">
-<img src='images/PU-300x82.png' width="100">
-<img src='images/cabes_logo.png' width="105">
-<img src='images/CSI-logo-final.png' width="100">
-<img src='images/DOE_Logo.png' width="115">
-<img src='images/NSF_4-Color_bitmap_Logo_thumb.jpg' width="35">
+<img src='images/CU_logo.svg' width="150">
+<img src='images/PU-300x82.png' width="150">
+<img src='images/cabes_logo.png' width="155">
+<img src='images/CSI-logo-final.png' width="150">
+<img src='images/DOE_Logo.png' width="165">
+<img src='images/NSF_4-Color_bitmap_Logo_thumb.jpg' width="55">
 <!-- <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/PU-300x82.png' width="200"> -->
 <!-- <img src='https://galligroup.uchicago.edu/images/sponsors/DOE_Logo.png' width="230"> -->
 <!-- <img src='https://ccsc.princeton.edu/wp-content/uploads/2019/04/CSI-logo-final.png' width="200"> -->
