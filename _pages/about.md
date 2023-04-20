@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hsin-Yu (silent H) is a computational physical chemist working with <u><a href="http://distasio.chem.cornell.edu/RAD.html">Robert A. DiStasio Jr.</a></u> at Cornell University.
+Hsin-Yu (silent H) is a computational scientist interested in the chemistry and physics of large-scale condensed-phase systems relevant to Energy, Environmental, and Materials Sciences.
+He completed a Ph.D. in Theoretical Chemistry with <u><a href="https://chemistry.princeton.edu/faculty-research/faculty/roberto-car/">Roberto Car</a></u> at Princeton University and is a postdoctoral research associate with <u><a href="http://distasio.chem.cornell.edu/RAD.html">Robert A. DiStasio Jr.</a></u> at Cornell University.
+Hsin-Yu is a long-term developer/co-author of the open-source <u><a href="https://www.quantum-espresso.org/">Quantum ESPRESSO</a></u> package focusing on enabling accurate and efficient DFT algorithms for condensed-phase systems containing >1,000 atoms.
+For his research contribution, Hsin-Yu was honored with a DOE/NERSC High-Performance Computing Achievement Award (2020).
+
+
+
+<!--Hsin-Yu (silent H) is a computational physical chemist working with <u><a href="http://distasio.chem.cornell.edu/RAD.html">Robert A. DiStasio Jr.</a></u> at Cornell University.
 He completed a Ph.D. in Theoretical Chemistry with <u><a href="https://chemistry.princeton.edu/faculty/car">Roberto Car</a></u> at Princeton University.
 His research interests focus on the structures and reactive processes involving large-scale condensed-phase systems relevant to Energy, Environmental, and Materials Sciences
-(e.g., molecular polymorphism in computational drug discovery and H<sub>3</sub>O<sup>+</sup>/OH<sup>-</sup> transport through confined aqueous in next-generation fuel cells).
+(e.g., molecular polymorphism in computational drug discovery and reactive H<sub>3</sub>O<sup>+</sup>/OH<sup>-</sup> transport through confined aqueous in next-generation fuel cells).
 To pursue these research topics, he works at the interface between Quantum Electronic Structure Theory, Statistical Mechanical Sampling, and High-Performance Computing/Machine-Learning Algorithms.
-He is a long-term developer/co-author of the open-source <u><a href="https://www.quantum-espresso.org/">Quantum ESPRESSO</a></u> package.
-
+He is a long-term developer/co-author of the open-source <u><a href="https://www.quantum-espresso.org/">Quantum ESPRESSO</a></u> package.-->
 <!-- He has developed a number of high-performance electronic structure algorithms (e.g., SeA) to enable routine use of hybrid DFT for large-scale condensed-phase systems containing more than 1,000 atoms. -->
 <!-- In addition to theoretical/algorithmic developments, Hsin-Yu also applies machine-learning techniques to investigate condensed-phase systems with even more extended length- and time-scales to allow more realistic modeling towards mesoscopic experimental conditions. -->
 
