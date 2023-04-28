@@ -1,6 +1,6 @@
 ---
 title: "[Code] Quantum ESPRESSO"
-excerpt: "Personal Fork of the Quantum ESPRESSO Package <br/><img src='http://www.quantum-espresso.org/user/themes/quantum/images/logo_header.jpg' width='300'>"
+excerpt: "Personal Fork of the Quantum ESPRESSO Package <br/><img src='/images/qe_logo.jpg' width='300'>"
 collection: repos
 ---
 
